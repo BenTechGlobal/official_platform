@@ -15,7 +15,7 @@ window.CODINGHAMME_CONFIG = {
     },
     socials: {
         whatsapp: "https://wa.me/2349078920214?text=Hello%20CodingHamme,%20I%20would%20like%20to%20enquire%20about...",
-        facebook: "#",
+        facebook: "https://www.facebook.com/share/g/1J87ZT1NUn/",
         instagram: "#",
         linkedin: "#",
         youtube: "#",
