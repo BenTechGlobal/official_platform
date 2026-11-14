@@ -9,7 +9,7 @@ window.CODINGHAMME_CONFIG = {
         parent: "BenTech Digital Solutions",
         slogan: "Learn. Practise. Build. Secure. Grow.",
         tagline: "Empowering Digital Skills. Building Technology Careers.",
-        email: "adepojugbenga2017@gmail.com",
+        email: "codinghamme@gmail.com",
         phone: "09078920214",
         location: "Abeokuta, Ogun State, Nigeria"
     },
@@ -25,7 +25,7 @@ window.CODINGHAMME_CONFIG = {
         { name: "EkidamsOutfits", category: "Custom Fashion & Tailoring", url: "#" },
         { name: "Ayetoro Automobile Services", category: "Automotive & Engineering", url: "#" },
         { name: "BenTech Digital Solutions", category: "Parent Software & Security Hub", url: "#" },
-        { name: "TechHub Abeokuta", category: "Community Partner", url: "#" }
+        { name: "Sharxe creations", category: "Customised/Bespoke Leather Footwears", url: "#" }
     ],
     serviceCategories: [
         {
