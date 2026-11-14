@@ -10,7 +10,7 @@ window.CODINGHAMME_CONFIG = {
         slogan: "Learn. Practise. Build. Secure. Grow.",
         tagline: "Empowering Digital Skills. Building Technology Careers.",
         email: "codinghamme@gmail.com",
-        phone: "09078920214",
+        phone: "+2349078920214",
         location: "Abeokuta, Ogun State, Nigeria"
     },
     socials: {
@@ -18,14 +18,14 @@ window.CODINGHAMME_CONFIG = {
         facebook: "https://www.facebook.com/share/g/1J87ZT1NUn/",
         instagram: "#",
         linkedin: "#",
-        youtube: "#",
+        youtube: "https://youtube.com/@codinghamme?si=TTQ89LYGK-DmGieP",
         tiktok: "#"
     },
     affiliates: [
         { name: "EkidamsOutfits", category: "Custom Fashion & Tailoring", url: "#" },
         { name: "Ayetoro Automobile Services", category: "Automotive & Engineering", url: "#" },
         { name: "BenTech Digital Solutions", category: "Parent Software & Security Hub", url: "#" },
-        { name: "Sharxe creations", category: "Customised/Bespoke Leather Footwears", url: "#" }
+        { name: "Sharxe creations", category: "Customised/Bespoke Leather Footwears", url: "https://wa.me/2348131138769?text=Hello%20Sharxe,%20I%20would%20like%20to%20enquire%20about..." }
     ],
     serviceCategories: [
         {
